@@ -1,0 +1,36 @@
+
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice:1
+Enter data to insert: 12
+
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice:1
+Enter data to insert: 16
+
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice:2
+Enter data to delete: 16
+
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice:3
+Circular Linked List: 12
+
+1. Insert at End
+2. Delete Node
+3. Print List
+0. Exit
+Enter your choice:0
+Exiting...
+mmi-lab@MMIlab07:~/Desktop/dslab$ 
