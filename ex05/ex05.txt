@@ -1,0 +1,62 @@
+~~~~BST MENU~~~~
+1. create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 1
+
+Enter the number of elements: 7
+
+Enter te Value: 12
+
+Enter te Value: 35
+
+Enter te Value: 76
+
+Enter te Value: 13
+
+Enter te Value: 67
+
+Enter te Value: 24
+
+Enter te Value: 64
+
+
+~~~~BST MENU~~~~
+1. create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 2
+
+The Preorder display12351324766764
+The Inorder display12132435646776
+The Postorder display24136467763512
+
+~~~~BST MENU~~~~
+1. create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 3
+
+Enter Element to be searched: 64
+
+Key element is present in BST
+
+~~~~BST MENU~~~~
+1. create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 3
+
+Enter Element to be searched: 1
+|nKey element is not found in the BST
+
+~~~~BST MENU~~~~
+1. create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 4
